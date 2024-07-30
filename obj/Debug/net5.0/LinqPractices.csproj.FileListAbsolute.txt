@@ -1,0 +1,5 @@
+C:\Users\batuh\OneDrive\Masaüstü\pratikler\LinqPractices\obj\Debug\net5.0\LinqPractices.csproj.AssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\pratikler\LinqPractices\obj\Debug\net5.0\LinqPractices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuh\OneDrive\Masaüstü\pratikler\LinqPractices\obj\Debug\net5.0\LinqPractices.AssemblyInfoInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\pratikler\LinqPractices\obj\Debug\net5.0\LinqPractices.AssemblyInfo.cs
+C:\Users\batuh\OneDrive\Masaüstü\pratikler\LinqPractices\obj\Debug\net5.0\LinqPractices.csproj.CoreCompileInputs.cache
